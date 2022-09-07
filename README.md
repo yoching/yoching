@@ -6,6 +6,7 @@
     - My strength of iOS:
         - Functional things (RxSwift, ReactiveSwift)
         - Architecture (TCA, MVVM, Coordinator, etc)
+        - UI implementation
         - Firebase/Firestore
 - Expanding my tech stacks to:
     - Web frontend (Elm, TS/JS)
