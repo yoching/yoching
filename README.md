@@ -19,14 +19,13 @@
 ## What I can offer✨
 
 - iOS App development
-    - Adding features, fixing bugs, refactoring, etc
+    - Add features, fix bugs, refactoring, etc
 - Technical consultancy
-    - Advising on technical decisions
+    - Advise on technical decisions
     - Teach programming through pair-programming sessions
 - Other areas
     - Web frontend, System programming, or Functional Programming
     - I’ll learn what’s needed for them
-
 
 <!--
 **yoching/yoching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
