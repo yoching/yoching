@@ -12,7 +12,6 @@
     - Web frontend (Elm, TS/JS)
     - Functional Programming (Haskell)
     - System Programming (Rust)
-    - [Read more](https://yoshikuni-web.com/blog/2021/tech-areas/)
 - Some experience in Backend (PHP, NodeJS, SQL) before iOS
 - Agile/Scrum, Pair-programming lover
 
@@ -26,6 +25,9 @@
 - Other areas
     - Web frontend, System programming, or Functional Programming
     - I’ll learn what’s needed for them
+
+## Links
+- Please see [my website](https://yoshikuni-web.com/) to know more about me!
 
 <!--
 **yoching/yoching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
