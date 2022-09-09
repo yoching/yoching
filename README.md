@@ -15,7 +15,8 @@
 - Some experience in Backend (PHP, NodeJS, SQL) before iOS
 - Agile/Scrum, Pair-programming lover
 
-## What I can offer✨
+## What I can offer
+Currently, I'm looking for projects that I can help you with. Please contact me for more details.
 
 - iOS App development
     - Add features, fix bugs, refactoring, etc
@@ -27,7 +28,7 @@
     - I’ll learn what’s needed for them
 
 ## Links
-- Please see [my website](https://yoshikuni-web.com/) to know more about me!
+- Please see [my website](https://yoshikuni-web.com/) to know more about me.
 
 <!--
 **yoching/yoching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
