@@ -10,8 +10,8 @@
         - Firebase/Firestore
 - Expanding my tech stacks to:
     - Web frontend (Elm, TS/JS)
-    - Functional Programming (Haskell)
-    - System Programming (Rust)
+    - Functional Programming (Haskell, Elm, Unison)
+    - System Programming (Rust, Python)
 - Some experience in Backend (PHP, NodeJS, SQL) before iOS
 - Agile/Scrum, Pair-programming lover
 
