@@ -1,6 +1,7 @@
 ## My experience
 
 - Software engineer since 2013
+- Studied Information and Communication Engineering (Bachelor) and Interdisciplinary Information Studies (Master) at The University of Tokyo
 - Mostly iOS app dev using Swift (7+ years)
     - Made more than 10 apps from scratch
     - My strength of iOS:
