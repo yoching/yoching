@@ -1,3 +1,6 @@
+## My career so far
+![](https://yoshikuni-web.com/blog/2023/ten-years/images/Yoshikuni_10_years.png)
+
 ## My experience
 
 - Software engineer since 2013
@@ -27,6 +30,7 @@ Currently, I'm looking for projects that I can help you with. Please contact me 
 - Other areas
     - Web frontend, System programming, or Functional Programming
     - I’ll learn what’s needed for them
+
 
 ## Links
 - Please see [my website](https://yoshikuni-web.com/) to know more about me.
