@@ -4,19 +4,19 @@
 ## My experience
 
 - Software engineer since 2013
-- Studied Information and Communication Engineering (Bachelor) and Interdisciplinary Information Studies (Master) at The University of Tokyo
-- Mostly iOS app dev using Swift (7+ years)
-    - Made more than 10 apps from scratch
-    - My strength of iOS:
-        - Functional things (RxSwift, ReactiveSwift)
-        - Architecture (TCA, MVVM, Coordinator, etc)
-        - UI implementation
-        - Firebase/Firestore
-- Expanding my tech stacks to:
-    - Web frontend (Elm, TS/JS)
-    - Functional Programming (Haskell, Elm, Unison)
-    - System Programming (Rust, Python)
-- Some experience in Backend (PHP, NodeJS, SQL) before iOS
+- Studied Interdisciplinary Information Studies (Master) and Information and Communication Engineering (Bachelor) at The University of Tokyo
+- Tech stacks
+    - Backend in TypeScript and Python
+        - AWS Lambda, GoogleCloud, Firebase, NestJS, Flask, pandas, 
+    - iOS native app in Swift
+        - Made more than 10 apps from scratch
+        - My strength of iOS:
+            - Functional things (RxSwift, ReactiveSwift)
+            - Architecture (TCA, MVVM, Coordinator, etc)
+            - UI implementation
+            - Firebase/Firestore
+    - Web Frontend in TypeScript / Elm
+    - Other business scripts
 - Agile/Scrum, Pair-programming lover
 
 ## What I can offer
